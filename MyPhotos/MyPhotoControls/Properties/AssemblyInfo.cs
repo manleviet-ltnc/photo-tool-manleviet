@@ -5,12 +5,12 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("MyPhotos")]
-[assembly: AssemblyDescription("Sample Application for Windows Forms in Action")]
+[assembly: AssemblyTitle("MyPhotoControls")]
+[assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Manning Publications Co.")]
-[assembly: AssemblyProduct("MyPhotos")]
-[assembly: AssemblyCopyright("Copyright ©  Manning Publications")]
+[assembly: AssemblyCompany("")]
+[assembly: AssemblyProduct("MyPhotoControls")]
+[assembly: AssemblyCopyright("Copyright ©  2017")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("e9373780-a424-402e-85b3-fc48ffa8f414")]
+[assembly: Guid("abe505ef-7036-49d3-ad12-f0c44552ffd5")]
 
 // Version information for an assembly consists of the following four values:
 //
@@ -32,5 +32,5 @@ using System.Runtime.InteropServices;
 // You can specify all the values or you can default the Build and Revision Numbers
 // by using the '*' as shown below:
 // [assembly: AssemblyVersion("1.0.*")]
-[assembly: AssemblyVersion("2.2")]
-[assembly: AssemblyFileVersion("2.2")]
+[assembly: AssemblyVersion("7.4")]
+[assembly: AssemblyFileVersion("7.4")]
